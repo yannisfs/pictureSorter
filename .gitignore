@@ -1,4 +1,6 @@
 #ignore Picture Sorter Environment
 ps_env/
 __pycache__/
+
+#ignore Desktop Services Store file
 .DS_Store
