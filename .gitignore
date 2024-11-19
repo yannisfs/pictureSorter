@@ -1,4 +1,3 @@
 #ignore Picture Sorter Environment
 ps_env/
-*.pyc
 __pycache__/
